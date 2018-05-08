@@ -1,0 +1,6 @@
+[submodule "reboot"]
+	path = reboot
+	url = git@github.com:indestinee/tplink-reboot.git
+[submodule "net"]
+	path = net
+	url = git@github.com:indestinee/ucas-net
